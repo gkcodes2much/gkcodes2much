@@ -337,21 +337,6 @@ And if there's something I do repeatedly...
 - 🔐 **CompTIA Security+**
 - 🤖 **Microsoft & Edunet Foundation — AI Internship**
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=gkcodes2much&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkcodes2much&layout=compact&theme=transparent&hide_border=true&langs_count=8"
-    height="180"
-  />
-</p>
----
 
 # 🐍 Contribution Graph
 
